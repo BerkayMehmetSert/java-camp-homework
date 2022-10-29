@@ -1,6 +1,5 @@
 package kodlama.io.devs.entities.concretes;
 
-import java.util.UUID;
 
 public class ProgramingLanguage {
     private int id;
